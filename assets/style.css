@@ -7,6 +7,7 @@ body{
     width: 834px;
     height: 284px;
     margin-left: 225px;
+    box-shadow: 6px 6px #b8b9be,-6px -6px 12px #fff;
 }
 .reading-girl{
     width: 396px;
@@ -40,7 +41,11 @@ body{
     cursor: pointer;
     border-radius: 10px;
     margin-left: 18px;
+    box-shadow: 6px 6px #b8b9be,-6px -6px 12px #fff;
 }
+/* .button-one:hover{
+    box-shadow: -6px -6px 12px #fff, 6px 6px #b8b9be;
+} */
 .neumorphism{
     display: flex;
     justify-content: center;
